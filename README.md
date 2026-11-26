@@ -1,121 +1,65 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=toney1606&label=Views&color=blue&style=plastic" alt="toney1606" />
-</p>
-
-<h1 align="center">Hi there, I'm Xuân Trường! 👋</h1>
-
 <div align="center">
-  🌍 I'm based in Vietnam &nbsp;|&nbsp; 💻 A passionate developer who loves clean code
-</div>
+
+<a href="https://github.com/toney1606/expert-journey"><img src="assets/hero.svg" width="100%" alt="Xuân Trường — Fullstack Developer · Expert Journey Creator" /></a>
 
 <br />
 
-<div align="center">
-  <a href="https://www.facebook.com/toney1606" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/__xuan.truongg1606" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:nxt160602@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div>
+<a href="https://github.com/toney1606"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00F5A0&center=true&vCenter=true&width=760&lines=Building+things+with+Laravel+%C2%B7+Nuxt+%C2%B7+React+%C2%B7+Node;Teaching+code+from+the+interviewer%27s+seat;1+real+interview+question+%3D+1+video;Clean+code.+Tested+demos.+No+invented+numbers." alt="typing" /></a>
 
-<br />
-<br />
+<img src="https://komarev.com/ghpvc/?username=toney1606&label=PROFILE%20VIEWS&color=00d9f5&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/toney1606?style=for-the-badge&color=7b2ff7&logo=github&label=FOLLOWERS" alt="followers" />
+<img src="https://img.shields.io/badge/BASED%20IN-VIETNAM-00f5a0?style=for-the-badge" alt="vietnam" />
 
-<h3 align="center">💻 Top languages:</h3>
-<br />
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="170" width="250" alt="user coding" align="left" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=toney1606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="150" alt="languages graph" align="center" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="170" width="250" alt="user coding" align="right" />
-</div>
+<br /><br />
 
-<br />
-<br />
-
-<div align="center">
-  <h2>🔥 GitHub Stats 🔥</h2>
-  <a href="https://github.com/toney1606">
-    <img align="center" width="48%" height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=toney1606&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" />
-  </a>
-  <a href="https://github.com/toney1606">
-    <img align="center" height="200" alt="Top languages stats" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=toney1606&langs_count=6&layout=compact&theme=tokyonight&hide_border=false" />
-  </a>
-</div>
-
-<br />
-<br />
-
-<h3 align="center">🔍 Languages and Tools:</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="photoshop logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo" />
-</div>
+<a href="https://github.com/toney1606/expert-journey"><img src="assets/expert-journey.svg" width="100%" alt="Expert Journey — vertical video channel teaching real interview questions" /></a>
 
 <br />
 
-<div align="center">
-  <a href="https://www.facebook.com/toney1606" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo" />
-  </a>
-  <a href="https://www.instagram.com/__xuan.truongg1606" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:nxt160602@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
-  </a>
-</div>
+<a href="https://github.com/toney1606/expert-journey"><img src="https://img.shields.io/badge/%E2%96%B6%20EXPERT%20JOURNEY-SOURCE%20%26%20SCRIPTS-ff3d71?style=for-the-badge&logo=github&logoColor=white" alt="expert journey repo" /></a>
+<a href="https://www.facebook.com/toney1606"><img src="https://img.shields.io/badge/WATCH%20THE%20VIDEOS-FACEBOOK%20REELS-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="watch videos" /></a>
 
-<br />
-<br />
+<br /><br />
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<img src="assets/h-tech.svg" width="100%" alt="Tech arsenal" />
 
-  ![Snake animation](https://raw.githubusercontent.com/toney1606/toney1606/output/github-contribution-grid-snake.svg)
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,js,vue,nuxt,react,nextjs,bootstrap,html,css,cs,c,jquery,docker,git,gitlab,figma,ps,slack,trello&perline=11" alt="skills" />
+
+<br /><br />
+
+<img src="assets/h-snake.svg" width="100%" alt="The snake is hungry" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toney1606/toney1606/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toney1606/toney1606/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/toney1606/toney1606/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br /><br />
+
+<img src="assets/h-stats.svg" width="100%" alt="Live stats" />
+
+<a href="https://github.com/toney1606"><img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=toney1606&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0a0f1c&title_color=00f5a0&text_color=c9d1d9&icon_color=00d9f5&border_color=1c2a44&border_radius=16" alt="stats" /></a>
+<a href="https://github.com/toney1606"><img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=toney1606&langs_count=6&layout=compact&bg_color=0a0f1c&title_color=00f5a0&text_color=c9d1d9&border_color=1c2a44&border_radius=16" alt="top languages" /></a>
+
+<img height="170" src="https://streak-stats.demolab.com?user=toney1606&background=0a0f1c&stroke=1c2a44&ring=00f5a0&fire=ff3d71&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9f5&sideLabels=9fb3c8&dates=6b7f96&border_radius=16" alt="streak" />
+
+<br /><br />
+
+<img src="assets/h-graph.svg" width="100%" alt="Contribution graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toney1606&bg_color=0a0f1c&color=00f5a0&line=7b2ff7&point=ffffff&area=true&area_color=7b2ff7&hide_border=true&title_color=00d9f5" width="100%" alt="activity graph" />
+
+<br /><br />
+
+<img src="assets/h-contact.svg" width="100%" alt="Let's connect" />
+
+<a href="https://www.facebook.com/toney1606"><img src="https://img.shields.io/badge/-FACEBOOK-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+<a href="https://www.instagram.com/__xuan.truongg1606"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="mailto:nxt160602@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail" /></a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D9F5,100:00F5A0&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
-
-<h3 align="center">Thanks for visiting! ✌️</h3>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64">
+<defs><linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b58cff"/><stop offset="1" stop-color="#b58cff" stop-opacity="0"/></linearGradient>
+<filter id="g" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<text x="600" y="38" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="#b58cff" filter="url(#g)" letter-spacing="4"><tspan fill="#5f7388">&lt;</tspan> CONTRIBUTION GRAPH <tspan fill="#5f7388">/&gt;</tspan></text>
+<rect x="250" y="54" width="700" height="2" fill="url(#l)" opacity="0"/>
+<rect x="380" y="52" width="440" height="2" rx="1" fill="#b58cff" fill-opacity="0.25"/>
+<rect x="380" y="52" width="70" height="2" rx="1" fill="#b58cff" filter="url(#g)"><animate attributeName="x" values="380;750;380" dur="3.4s" repeatCount="indefinite"/></rect>
+</svg>
